@@ -2,3 +2,4 @@
 # Satu ID game per baris. Baris diawali # cuma catatan.
 
 10774754921
+10765581227   # Ruang Sisa
